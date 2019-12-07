@@ -6,6 +6,8 @@
 **[License](#license)** |
 **[Help and Resources](#help-and-resources)**
 
+# ainize Button
+[![Run on Ainize](https://ainize.ai/static/images/run_on_ainize_button.svg)](https://ainize.web.app/redirect?git_repo=github.com/gadamer1/jupyterhub)
 
 # [JupyterHub](https://github.com/jupyterhub/jupyterhub)
 
